@@ -1,1 +1,1 @@
-# TEC-5
+#基于Proteus的 TEC-5实验仿真
